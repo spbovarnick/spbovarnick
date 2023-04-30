@@ -36,7 +36,7 @@ Designed and developed a responsive full-stack Django app hosted on Heroku with 
 
 This app builds upon a NUFORC database of nearly 65,000 UFO sightings from around the United States dating from 1910-2014. Users are able to browse, search, and filter the sightings. By making an account, users can add their own sightings to the database and leave comments on sighting reports. A heat map offers a handy geo-spatial representation of sightings.
 
-![AnomaliesAnonymousMockup](https://user-images.githubusercontent.com/120278019/235321371-863a0bde-dde4-4c49-9383-9bc537ec2cd8.png)
+![AnomAnonMockup](https://user-images.githubusercontent.com/120278019/235329407-289c9b1e-5c40-4feb-b821-dda6118ac278.png)
 
 ## [FlyBin](https://fly-bin.herokuapp.com/)
 
@@ -45,3 +45,5 @@ This app builds upon a NUFORC database of nearly 65,000 UFO sightings from aroun
 Built with Mongoose, ExpressJS and NodeJS, FlyBin was designed out my own frustration with keeping track of my fishing flies. I tie my own flies and when I sit down at the vise, it's easy to mistakenly double up on patterns or fail to replenish depleted patterns.
 
 FlyBin allows the user to digitally catalog their collection of flies and create notes for different patterns. For many anglers these practices are already hardcopy habit, but FlyBin allows full CRUD access to that data anywhere with a cell signal.
+
+![FlyBinMockup](https://user-images.githubusercontent.com/120278019/235329420-2d39ab3d-19ed-4c7e-a0aa-01092d74bbc1.png)
