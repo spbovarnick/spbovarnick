@@ -4,9 +4,9 @@ I'm a software developer born tinkerer. I have a compulsion for learning how sys
 ## Technologies I Use
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,md,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,md,py,ruby)](https://skillicons.dev)
 ### Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,express,nodejs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,express,nodejs,tailwind,rails)](https://skillicons.dev)
 ### Databases:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,sqlite)](https://skillicons.dev)
 ### Tools:
